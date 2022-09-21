@@ -2,7 +2,7 @@ package com.rocketflow.sdk
 
 import android.util.Log
 
-class SdkRocketflow {
+public class SdkRocketflow {
 
     init {
         Log.e("initRocketflow","initRocketflow")
